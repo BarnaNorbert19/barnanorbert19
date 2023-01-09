@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### My name is Barna Norbert and if you want to know more about me, check out my [portfolio](http://barnanorbert19.github.io "portfolio") 😄
+### You can find most of my projects here 
 
 
 <!--
