@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is Barna Norbert
 
 <!--
 **BarnaNorbert19/barnanorbert19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
